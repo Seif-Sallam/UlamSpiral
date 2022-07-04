@@ -1,0 +1,5 @@
+*.o
+Build/*
+.vscode/*
+.so
+imgui.ini
