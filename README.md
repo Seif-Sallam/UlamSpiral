@@ -9,7 +9,10 @@ You need to either install SFML on your machine or define include and lib direct
 This was created on Linux Mint with SFML 2.6 and C++17. However, this code will definitely run on older versions of C++ and SFML.
 
 ## Images
+Midway:
 
-![Image1](rsc/1.png)
+![Image1](rsc/image1.png)
 
-![Image2](rsc/2.png)
+Final Image:
+
+![Image2](rsc/image2.png)
