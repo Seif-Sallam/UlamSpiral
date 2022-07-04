@@ -70,7 +70,7 @@ int main(int argc, char const *argv[])
 	sf::ContextSettings settings;
 	settings.antialiasingLevel = 8;
 	char title[1024];
-	sprintf(title, "%s  %u x %u  max fps: %u", "Ulum Spiral", width, height, (uint32_t)framesPerSec);
+	sprintf(title, "%s  %u x %u  max fps: %u", "Ulam Spiral", width, height, (uint32_t)framesPerSec);
 
 	sf::RenderWindow window(sf::VideoMode(width, height), title, sf::Style::Close | sf::Style::Titlebar, settings);
 
