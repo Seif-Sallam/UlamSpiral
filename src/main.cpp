@@ -61,6 +61,11 @@ int main(int argc, char const *argv[])
 				framesPerSec = -1;
 		}
 	}
+	else
+	{
+		std::cout << "You can use differnet options such as: \n"
+					 "\t ./<Sim> [width height] [maxFPS]\n";
+	}
 
 	sf::ContextSettings settings;
 	settings.antialiasingLevel = 8;
