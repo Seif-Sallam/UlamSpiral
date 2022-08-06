@@ -7,12 +7,3 @@ A simulation of the ulam spiral. A spiral that is generated through putting the 
 You need to either install SFML on your machine or define include and lib directory in the compilation in the makefile.
 
 This was created on Linux Mint with SFML 2.6 and C++17. However, this code will definitely run on older versions of C++ and SFML.
-
-## Images
-Midway:
-
-![Image1](rsc/image1.png)
-
-Final Image:
-
-![Image2](rsc/image2.png)
